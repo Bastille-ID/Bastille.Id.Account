@@ -1,1 +1,43 @@
 # Bastille.Id.Account
+
+Bastille.ID Identity Server Account Manager
+
+This repository ([Bastille.Id.Account](https://github.com/Bastille-ID/Bastille.Id.Account)) is where we (Talegen) lead the development and maintenance of the Bastille.ID Account Manager project. The source code here is available to everyone under the standard [Apache 2.0 license](https://github.com/Talegen/Talegen.AspNetCore.hCAPTCHA/blob/main/LICENSE).
+
+The purpose of this project is to provide an Account Manager for interacting with the freely available Bastille.ID OpenID Connect Identity Server API, and related management services. 
+
+## Contributing
+
+There are many ways in which you can participate in the project, for example:
+
+ - Submit bugs and feature requests, and help us verify as they are checked in.
+ - Review source code changes.
+ - Review the documentation and make pull requests for anything from typos to new content. 
+
+If you are interested in fixing issues and contributing directly to the code base, please see the document [How to Contribute](CONTRIBUTING.md), which covers the following:
+
+ - How to build and run from source
+ - The development workflow, including debugging and running tests.
+ - Coding and style guidelines
+ - Submitting code changes (pull requests)
+ - Contributing to translations
+
+## Feedback
+
+ - Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/Bastille.Id.Account)
+ - [Request a new feature](https://github.com/Bastille-ID/Bastille.Id.Account/blob/main/CONTRIBUTING.md).
+ - Up vote [popular feature requests](https://github.com/Bastille-ID/Bastille.Id.Account/issues?q=is:open%20is:issue%20label:feature-request%20sort:reactions-%2b1-desc).
+ - [File an issue](https://github.com/Bastille-ID/Bastille.Id.Account/issues).
+ - Follow [@TalegenInc](https://twitter.com/TalegenInc) and let us know what you think!
+
+## Related Projects
+
+This project relies on several related library projects. Many of these projects live in their own repositories on GitHub in the [Bastille.ID organization](https://github.com/Bastille-ID). For example, the [Bastille.Id Core](https://github.com/Bastille-ID/Bastille.Id.Core) is the main library for core functionality. 
+
+## Code of Conduct
+
+This project has adopted the [Talegen Open Source Code of Conduct](https://talegen.com/open-source-code-of-conduct/). For more information see the Code of Conduct FAQ or [contact us](https://talegen.com/contact/) with additional questions or comments.
+
+## License
+
+Copyright &copy; Talegen, LLC. All rights reserved.
